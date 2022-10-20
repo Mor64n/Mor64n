@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**Mor64n/Mor64n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 17 Years old and using github to show off my Web3 D-apps
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Understand Solidity to a degree
+* Understand Eth & Solana developement 
+* Stealing Github Code
+
+# Contact Me
+
+* Twitter: https://twitter.com/Mor64n_
+* Discord: 
