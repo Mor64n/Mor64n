@@ -1,14 +1,13 @@
-# Hello 👋
 
-I am 17 Years old and using github to show off my Web3 D-apps
+## Hello 👋
+I'm Morgan, a 17-year-old Web3 Developer from england
 
-# Skills
+- I like to post weekend projects on my github.
 
-* Understand Solidity to a degree
-* Understand Eth & Solana developement 
-* Stealing Github Code
+## Skills
+- 👨‍💻 JavaScript, Solidity, Python
+- Understand Eth & Solana Developement
 
-# Contact Me
-
-* Twitter: https://twitter.com/Mor64n_
-* Discord: 
+## Contact
+- [Mor64n#4795](https://discordapp.com/channels/@me/920801300172660736/) on Discord
+- [@Mor64n_](https://twitter.com/@Mor64n_) on Twitter
